@@ -1,19 +1,6 @@
-<!-- 
-To add your logo, replace 'YOUR_LOGO_URL_HERE' with the actual URL of your DevLoop logo.
-You can upload your logo to this repository and reference it like:
-../assets/devloop-logo.png
-or use a direct URL to where your logo is hosted.
--->
-
 <div align="center">
 
-<img src="../assets/logo-light.svg" alt="DevLoop Logo" width="200"/>
-
-# DevLoop
-
-**Intelligent Solutions for Modern Development**
-
----
+<img src="../assets/devloop-banner.png" alt="DevLoop" width="1000"/>
 
 </div>
 

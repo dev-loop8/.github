@@ -7,7 +7,7 @@ or use a direct URL to where your logo is hosted.
 
 <div align="center">
 
-<img src="YOUR_LOGO_URL_HERE" alt="DevLoop Logo" width="200"/>
+<img src="../assets/logo-light.svg" alt="DevLoop Logo" width="200"/>
 
 # DevLoop
 

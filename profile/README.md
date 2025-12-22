@@ -92,7 +92,7 @@ We're always interested in challenging projects and meaningful partnerships. Whe
 ### Get in Touch
 
 - **Email**: [contact@devloop.software](mailto:contact@devloop.software)
-- **Website**: [www.devloop.software](https://www.devloop.software))
+- **Website**: [www.devloop.software](https://www.devloop.software)
 - **LinkedIn**: [linkedin.com/company/devloop](https://linkedin.com/company/devloop) *(Update with actual link)*
 - **Twitter/X**: [@devloop_agency](https://twitter.com/devloop_agency) *(Update with actual handle)*
 

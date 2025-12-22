@@ -4,9 +4,9 @@
 
 </div>
 
-## About DevLoop
+## About Devloop
 
-DevLoop is a forward-thinking technology company specializing in AI-powered solutions, modern web development, and intelligent automation. We bridge the gap between cutting-edge artificial intelligence and practical business applications, delivering scalable, production-ready systems that solve real-world challenges.
+Devloop is a forward-thinking technology company specializing in AI-powered solutions, modern web development, and intelligent automation. We bridge the gap between cutting-edge artificial intelligence and practical business applications, delivering scalable, production-ready systems that solve real-world challenges.
 
 Our team combines deep expertise in machine learning, advanced web technologies, and automation engineering to create solutions that are not only technically excellent but also aligned with business objectives.
 
@@ -92,9 +92,9 @@ We're always interested in challenging projects and meaningful partnerships. Whe
 ### Get in Touch
 
 - **Email**: [contact@devloop.software](mailto:contact@devloop.software)
-- **Website**: [www.devloop.software](https://www.devloop.software)
-- **LinkedIn**: [linkedin.com/company/devloop](https://linkedin.com/company/devloop) *(Update with actual link)*
-- **Twitter/X**: [@devloop_agency](https://twitter.com/devloop_agency) *(Update with actual handle)*
+- [**Website**](https://www.devloop.software)
+- [**LinkedIn**](https://linkedin.com/company/devloop-it)
+- [**Twitter/X**](https://twitter.com/devloop_agency) *(Update with actual handle)*
 
 ## Open Source Commitment
 
@@ -104,8 +104,8 @@ We believe in contributing to the developer community. As we grow, we'll be shar
 
 <div align="center">
 
-**DevLoop** - *Building intelligent systems that work*
+**Devloop** - *Building intelligent systems that work*
 
-© 2025 DevLoop. All rights reserved.
+© 2025 Devloop. All rights reserved.
 
 </div>

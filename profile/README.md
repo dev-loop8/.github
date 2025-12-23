@@ -93,8 +93,8 @@ We're always interested in challenging projects and meaningful partnerships. Whe
 
 - [**contact@devloop.software**](mailto:contact@devloop.software)
 - [**Website**](https://www.devloop.software)
-- [**LinkedIn**](https://linkedin.com/company/devloop-it)
-- [**Twitter/X**](https://x.com/devloop_agency)
+- [**LinkedIn**](https://www.linkedin.com/company/devloopsoftware/)
+- [**Twitter/X**](https://x.com/devloopsoftware)
 
 ## Open Source Commitment
 
